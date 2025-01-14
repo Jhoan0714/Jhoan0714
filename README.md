@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Jhoan López
+### 👋 Hi! I'm Jhoan Lopez
 
 
 ## 🚀 Tech Stack
@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Analytics
 
-![Jhoan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhoanlopez&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Jhoan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jhoanlopez&show_icons=true&theme=algolia&include_all_commits=true)
 
 ---
 
