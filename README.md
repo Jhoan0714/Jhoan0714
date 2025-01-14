@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Analytics
 
-![Jhoan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jhoanlopez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Jhoan's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Jhoan0714&show_icons=true&theme=swift&include_all_commits=true&count_private=true)
 
 ---
 
