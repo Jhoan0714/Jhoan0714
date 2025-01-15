@@ -10,7 +10,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%23202222?style=flat&logo=selenium&logoColor=white)![Robot Framework](https://img.shields.io/badge/Robot_Framework-%234265F1?style=flat&logo=robotframework&logoColor=white)![Appium](https://img.shields.io/badge/Appium-%23E16D57?style=flat&logo=appium&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23007494?style=flat&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL_Server-E7282D?style=flat&logo=Server-Fault&logoColor=white)![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)![MongoDB](https://img.shields.io/badge/MongoDB-%2300A94F?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23007494?style=flat&logo=postgresql&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL_Server-E7282D?style=flat&logo=Server-Fault&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)![MongoDB](https://img.shields.io/badge/MongoDB-%2300A94F?style=flat&logo=mongodb&logoColor=white)
 
 ### Containers & Virtualization
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white)
